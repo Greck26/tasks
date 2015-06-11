@@ -23,6 +23,7 @@
 12. **(128+ баллов за хорошую реализацию)** Реализация парсера G-кодов, стандарт ISO 6983-1:2009.
 13. **(128+ баллов за хорошую реализацию)** Индивидуальное задание по LaTeX'у и Питону ([Привалов](http://github.com/qweerty), [Круглова](https://github.com/Nastiaa)&nbsp;— [Rep](https://github.com/qweerty/System-software)).
 14. Проверка матрицы на единичность([Чувиков](https://github.com/snofe)&nbsp;— [Rep](https://github.com/snofe/edmatrix))
+15. Реализация алгоритма Дейкстры с использованием библиотеки turtle.([Гречка](https://github.com/Greck26/Dijkstra_game))
 
 **Перечень будет расширен**
 
